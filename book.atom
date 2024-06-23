@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Google Drive File Feed</title>
-    <link href="https://github.com/tiagomazza/koreader/blob/main/feed.atom" rel="self"/>
+    <link href="https://github.com/tiagomazza/koreader/blob/main/book.atom" rel="self"/>
     <updated>2024-06-23T12:00:00Z</updated>
     <author>
         <name>Nome do Autor</name>
